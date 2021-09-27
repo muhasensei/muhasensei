@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @muhasensei
+- 🐱‍👤 I’m currently learning javascript
+- 🚩 Currently in Almaty, Kazakhstan
