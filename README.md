@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @muhasensei
-- 🐱‍👤 I’m currently learning javascript
-- 🚩 Currently in Almaty, Kazakhstan
+- 👋 Hi, I’m Mukhit!
+- 🐱‍👤 Currently learning javascript
+- 🚩 Almaty, Kazakhstan
